@@ -20,3 +20,9 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+
+<!-- Testing commit to project and comments -->
+
+## Collaborators
+Emma Stotz, Francisco Vannini
