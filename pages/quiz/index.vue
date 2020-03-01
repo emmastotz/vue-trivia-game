@@ -2,8 +2,10 @@
   <div
     class="p-8 flex flex-col w-full antialiased text-center items-center justify-center"
   >
+  <div> 
     <QuestionTimer :time-left="timeLeft" :time-limit="timeLimit" />
-    <QuizQuestion :questions="questions" />
+  </div>
+    <QuizQuestion :questions="questions"/>
   </div>
 </template>
 
