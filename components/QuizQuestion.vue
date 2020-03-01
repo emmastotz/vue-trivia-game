@@ -25,7 +25,7 @@ export default {
     };
   },
   mounted() {
-    this.index= 0
+    this.index = 0
   },
   props: {
     questions: {
