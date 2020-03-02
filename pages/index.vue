@@ -1,7 +1,9 @@
 <template>
-  <section class="flex flex-col spacy-y-4 space-x-4">
+  <section class="text-center">
     <nuxt-link to="/quiz">
-      <button class="bg-gray-600 text-white rounded m-4 py-1 px-2 shadow">Start</button>
+      <button
+        class="bg-gray-600 text-white rounded m-8 py-1 px-2 shadow focus:outline-none hover:bg-gray-700"
+      >Start</button>
     </nuxt-link>
   </section>
 </template>
