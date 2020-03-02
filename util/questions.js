@@ -29,7 +29,7 @@ export default {
     {
       id: 2,
       questionValue:
-        "How many fingers and thumbs does SpongeBob Squarepants have?",
+        "How many fingers and thumbs does SpongeBob SquarePants have?",
       options: [
         {
           optionValue: "6",
@@ -55,7 +55,7 @@ export default {
     },
     {
       id: 3,
-      questionValue: "What is the name of Patrik Star's Dad? ",
+      questionValue: "What is the name of Patrick Star's dad? ",
       options: [
         {
           optionValue: "Hector",
@@ -82,7 +82,7 @@ export default {
     {
       id: 4,
       questionValue:
-        "Before Mr. Krabs bought the Krusty Krab it was called what ? ",
+        "Before Mr. Krabs bought the Krusty Krab it was called what? ",
       options: [
         {
           optionValue: "The Krooked Krab",
@@ -108,7 +108,7 @@ export default {
     },
     {
       id: 5,
-      questionValue: "Who is Mermaid Man's faithful sidekick ? ",
+      questionValue: "Who is Mermaid Man's faithful sidekick? ",
       options: [
         {
           optionValue: "Coral Kid",
